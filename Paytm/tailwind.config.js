@@ -4,13 +4,13 @@ module.exports = {
   theme: {
     extend: {
         colors :{
-            nilla: "#00baf2",
-            darkNilla: '#002970',
+            Paytm_Blue: "#00baf2",
+            dark_paytm_blue: '#002970',
             lightColor:'#f5f5f5',
-            lightNilla:'#00afe3',
-            lightDarkNilla:'#0f4a8a',
+            lightPaytmBlue:'#00afe3',
+            lightDarkBlue:'#0f4a8a',
             bgColor:'#f5f7fa',
-            ultalightNilla :'#4ccff6',
+            ultalightPaytmBlue :'#4ccff6',
             line:'#cccccc',
             fontColor:'#505050',
             smallFontColor:'#707086'
